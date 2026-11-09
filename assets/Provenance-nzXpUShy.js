@@ -1,0 +1,1 @@
+import{n as e}from"./index-BnplL2T-.js";var t=e(),n={reported:`Reported`,assumed:`Assumed`,calculated:`Calculated`};function r({kind:e,children:r}){return(0,t.jsxs)(`span`,{className:`provenance provenance--${e}`,children:[(0,t.jsx)(`span`,{className:`provenance__glyph`,"aria-hidden":`true`}),r??n[e]]})}export{r as t};

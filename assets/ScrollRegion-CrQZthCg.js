@@ -1,0 +1,1 @@
+import{n as e}from"./index-BnplL2T-.js";var t=e();function n({label:e,className:n,id:r,hidden:i,children:a}){return(0,t.jsx)(`div`,{id:r,hidden:i,className:n,role:`region`,"aria-label":e,tabIndex:0,children:a})}export{n as t};
